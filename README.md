@@ -10,6 +10,7 @@ Current challenges of NFTs include:
 - Competition for mind share with memecoins
 - Negative perceptions due to past speculative activities and unethical behavior
 - Spam
+  
 Challenges for NFT holder:
 - Lack of engagement with purchased NFTs
 - Difficult discoverability for new interesting projects
