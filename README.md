@@ -1,5 +1,7 @@
 # Connecting NFTs to Global Internet Trends
 
+"Solana Seasons" is a community-driven initiative designed to boost engagement and interaction within the Solana NFT ecosystem. The idea is simple: we divide the year into themed time periods, each with its own unique colors and motifs, encouraging collectors to showcase NFTs that match the current season. By aligning profile pictures, special drops, and events around these seasonal themes, we create a dynamic, ongoing cycle of creativity and participation. It’s about making NFTs more than just collectibles—they become part of an active, evolving culture that connects projects and communities across the Solana space.
+
 ## Goal
 The goal of this document is to develop a unified strategy for revitalizing NFTs in the blockchain community.
 
