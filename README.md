@@ -36,11 +36,11 @@ To overcome these challenges, consider the following solutions:
 - **Use Case Showcases**: Highlight real-world applications of NFTs beyond digital art.
 - **Sustainability Focus**: Educate about eco-friendly blockchain solutions to address environmental concerns.
 
-## Technological Innovations and Standardization!!
+## Technological Innovations and Standardization
 - **Interoperability**: Develop cross-platform solutions to make NFTs more accessible.
 - **Security**: Enhance security measures to protect users from scams and fraud.
 - **Fractional Ownership**: Implement fractional NFT ownership to increase accessibility.
-- **NFT Standards**: Develop and promote universal NFT standards (e.g., ERC-721, ERC-1155) across different blockchain networks.
+- **NFT Standards**: Develop and promote universal NFT standards (e.g., Metaplex Core/MPL-404, ERC-721) across different blockchain networks.
 - **Metadata Standardization**: Create a common metadata format for NFTs to ensure consistency across platforms and chains.
 - **Cross-Chain Bridges**: Implement secure and efficient cross-chain bridges to enable NFT transfers between different blockchain networks.
 - **Interoperability Protocols**: Develop protocols that allow seamless interaction between NFTs on different chains.
