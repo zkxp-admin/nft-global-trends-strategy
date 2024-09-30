@@ -3,7 +3,7 @@
 ## Goal
 The goal of this document is to develop a unified strategy for revitalizing NFTs in the blockchain community.
 
-## Current Challenges
+## Current Challengez
 Current challenges include:
 - Competition for mind share with memecoins
 - Negative perceptions due to past speculative activities and unethical behavior
